@@ -20,7 +20,5 @@ The testnet faucet is a service that provides test ada (tAda) to users of the Ca
 </div>
 
 
-
-:::note Return the test ada
+NOTE -~- Return the test ada
 Send your test tokens to this address: `addr_test1qqr585tvlc7ylnqvz8pyqwauzrdu0mxag3m7q56grgmgu7sxu2hyfhlkwuxupa9d5085eunq2qywy7hvmvej456flknswgndm3`
-:::
